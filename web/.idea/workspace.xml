@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="986d9406-9c16-4309-b062-c19da49347c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/myprofile_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/WhatsApp Image 2024-08-14 at 3.05.40 PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/m1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/m2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/m3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/m4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/m5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/m6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/m7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/certificate_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/certificate_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/certificate_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/certificate_new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/certificates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/chatbot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/microblogging.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprofile_01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprofile_01/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprofile_01/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprofile_01/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myprofile_01/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kdMYGWGVn64bJxSRgP8B7poPLF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Pirelli Piri/PycharmProjects/myprofile_01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pirelli Piri\PycharmProjects\myprofile_01\main\static\images" />
+      <recent name="C:\Users\Pirelli Piri\PycharmProjects\myprofile_01\main\templates\main" />
+      <recent name="C:\Users\Pirelli Piri\PycharmProjects\myprofile_01\main" />
+      <recent name="C:\Users\Pirelli Piri\PycharmProjects\myprofile_01\templates" />
+      <recent name="C:\Users\Pirelli Piri\PycharmProjects\myprofile_01\main\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="myprofile_01" type="Python.DjangoServer" factoryName="Django server">
+      <module name="myprofile_01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="986d9406-9c16-4309-b062-c19da49347c2" name="Changes" comment="" />
+      <created>1723609046048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723609046048</updated>
+      <workItem from="1723609092916" duration="11589000" />
+      <workItem from="1723620799789" duration="18354000" />
+      <workItem from="1723683398951" duration="2852000" />
+      <workItem from="1723689522632" duration="4823000" />
+      <workItem from="1723695652570" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
